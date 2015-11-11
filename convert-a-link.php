@@ -19,7 +19,7 @@ function convert_a_link_settings(){
         'manage_options',
         'convert-a-link/convert-a-link-admin.php',
         '',
-        plugins_url( 'convert-a-link/icon.png' )
+        plugins_url( 'icon.png', __FILE__ )
     );
 }
 

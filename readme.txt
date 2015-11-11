@@ -1,5 +1,5 @@
 === Convert-a-link ===
-Contributors: digitalwindow, mmrs151 
+Contributors: digitalwindow
 Tags: affiliate window, convert a link, affiliate
 Requires at least: 3.5
 Tested up to: 4.3
@@ -12,8 +12,12 @@ The ever wanted convert a link plugin for wordpress is here. You spoke, we liste
 == Description ==
 
 Until yesterday publisher had to put the JS link at the bottom of their wordpress page, which, for some publisher was impossible due to poor technical knowledge. The only other option was to download the zipped plugin from the Affiliate Window publisher settings page and install as wordpress plugin. We found out, some publishers still need help to understand the mechanism. 
-
 So to make the process easier, Affiliate Window is releasing the convert a link plugin, which can be downloaded from the plugin directory and the JS will be added at the bottom of the page.
+
+To use this plugin you must be a valid Publisher of Affiliate Window.
+
+If you are not already earning money from your wordpress site using the 'Convert-a-link' service by Affiliate Window, then please open your Publisher account here.
+Make sure you have turned on the 'Convert-a-link' service in the 'Links and Tools' page.
 
 No hassle attached.
 
@@ -43,4 +47,3 @@ This plugin add the JS at the bottom of your wordpress page with your publisher 
 **What do I need to do start converting link?**
 
 You have to turn yourself 'on' in the Affiliate Window portal for this plugin to work and then insert your publisher ID in the plugin settings page.
-
