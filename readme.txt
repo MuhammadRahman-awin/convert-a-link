@@ -11,6 +11,8 @@ The ever wanted convert a link plugin for wordpress is here. You spoke, we liste
 
 == Description ==
 
+This plugin add the JS at the bottom of your wordpress page with your publisher ID configured.
+
 Until yesterday publisher had to put the JS link at the bottom of their wordpress page, which, for some publisher was impossible due to poor technical knowledge. The only other option was to download the zipped plugin from the Affiliate Window publisher settings page and install as wordpress plugin. We found out, some publishers still need help to understand the mechanism. 
 So to make the process easier, Affiliate Window is releasing the convert a link plugin, which can be downloaded from the plugin directory and the JS will be added at the bottom of the page.
 
