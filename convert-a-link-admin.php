@@ -22,7 +22,7 @@ if ( ! empty( $_POST ) && check_admin_referer( 'insert_publisher' ) ) {
                 <br/>
                 <i>under 'Links and Tools' menu</i>
             </td>
-            <td><a target="_blank" href="https://darwin.affiliatewindow.com/awin/affiliate/45628/convert-a-link"><img src=<?=plugins_url("convert-a-link/one.png")?>></a></td>
+            <td><a target="_blank" href="http://wiki.affiliatewindow.com/index.php/Convert-a-link"><img src=<?=plugins_url("convert-a-link/one.png")?>></a></td>
         </tr>
         <tr>
             <td><b>Step 2: Enter your publisherId and save.</b></td>
