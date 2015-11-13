@@ -1,4 +1,6 @@
 <?php
+if ( ! defined( 'ABSPATH' ) ) exit;
+
 /*
 Plugin Name: Convert a link
 Description: Convert-a-link switches normal product links on your website into affiliate links with little effort
