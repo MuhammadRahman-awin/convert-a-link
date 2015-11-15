@@ -12,10 +12,6 @@ This plugin add a Javascript at the bottom of the page, which converts the dead 
 == Description ==
 [youtube https://www.youtube.com/watch?v=fM-TzoMP0D4]
 
-Previously publishers had to put the Javascript link at the bottom of their Wordpress page, which, some of our less technical publishers found very difficult. The only other option was to download the zipped plugin from the Affiliate Window publisher settings page and install as Wordpress plugin. We found out, some publishers still need help to understand the mechanism.
-
-So to make the process easier, Affiliate Window are releasing the convert-a-link plugin, which can be downloaded from the plugin directory and the Javascript will be added at the bottom of the page.
-
 = What is Convert-a-link ? =
 Convert-a-link is a tool we created for our publishers to make the process of creating tracked affiliate links as easily as possible. This means that you can just add a standard link to your site and if this is going to one of the advertisers on our network then we will ensure that this is tracked, allowing you to earn commission should the user end up making a purchase.
 
