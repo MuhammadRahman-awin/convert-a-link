@@ -91,3 +91,7 @@ This plugin add the JS at the bottom of your wordpress page with your publisher 
 **What do I need to do start converting link?**
 
 You have to turn yourself 'on' in the Affiliate Window portal for this plugin to work and then insert your publisher ID in the plugin settings page.
+
+== Screenshots ==
+1. Step one: Enable from publisher settings page under Links and Tools
+2. Step two: Enter your publisher ID and save 
